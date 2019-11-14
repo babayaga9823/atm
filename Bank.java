@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**@Bank class that has two arraylists for Bank A,B.
- * Created by yehiaqtaish on 6/17/16.
+
  */
 public class Bank{
 

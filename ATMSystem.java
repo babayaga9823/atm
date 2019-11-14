@@ -1,5 +1,5 @@
 /**@ATMSystem main class to run ATM machine
- * Created by yehiaqtaish on 6/18/16.
+ * 
  */
 import java.util.Scanner;
 public class ATMSystem {
