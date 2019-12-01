@@ -13,7 +13,7 @@ h1{
 /*background-color: white;*/
 /*padding-left: 50px;*/
 /*padding-bottom: 1000px;*/
-padding-top: 200px;
+padding-top: 180px;
 font-size: 400%;
 font-family: "Times New Roman", Times, serif;
  font:bold;
@@ -29,7 +29,7 @@ color: #3333ff;
 }
 #languages
 {
-  margin-top: 80px;
+  margin-top: 40px;
   padding-top: 20px;
   padding-left: 200px;
   padding-right: 200px;
@@ -138,7 +138,7 @@ padding-left: 100px;
 #firstdiv
 {
   /*margin-top: 200px;*/
-  padding-left: 140px;
+  padding-left: 110px;
   padding-top: 1000px;
  /* align-content: center;
   align-self: : center;*/
