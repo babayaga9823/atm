@@ -41,7 +41,7 @@ color: #3333ff;
   /*padding-left: 20%;*/
   padding-right: 20%;
   margin-left: 10%;
-  padding-left: 10%;
+  padding-left: 5%;
   /*text-align: center;*/
   /*align-items: center;*/
   align-content: center;
@@ -99,28 +99,34 @@ color: #3333ff;
 #quora
 {
   /*margin-left: 100px;*/
-  padding-left: 5%;
+  /*padding-left: 5%;*/
   
 }
 #insta
 {
- padding-left: 15%;
+ padding-left: 10%;
 
 }
 
 #linkedin
 {
-padding-left: 30%;
+padding-left: 20%;
  
 }
 #github
 {
- padding-left: 60%;
+ padding-left: 70%;
   
 }
+#facebook
+{
+ padding-left: 30%;
+  
+}
+
 #blogger
 {
-padding-left: 45%;
+padding-left: 30%;
 }
 #first
 {
@@ -134,7 +140,7 @@ padding-left: 45%;
 #aboutme{
   /*padding-left: 500px;*/
   /*margin-top: 100px;*/
-  padding-top: 10%;
+  padding-top: 4%;
   text-align: center;
   font-size: 250%;
   color: red;
